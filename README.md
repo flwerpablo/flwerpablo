@@ -27,6 +27,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center"> 
         <h1>Contact</h1>
     <a href="mailto:ruanruandnz@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
