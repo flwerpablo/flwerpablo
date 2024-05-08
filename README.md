@@ -21,6 +21,11 @@
             <img src="https://github.com/intpablo/intpablo/assets/150086518/2a8c2c98-950f-4e5e-8b76-19f7f3c5f8cd" width="50" />
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
         <h1>Contact</h1>
     <a href="mailto:ruanruandnz@gmail.com">
