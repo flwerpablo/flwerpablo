@@ -16,13 +16,13 @@
     <a href="mailto:ruanruandnz@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>
-      <a href="www.linkedin.com/in/ruan-pablo-da-silva-diniz-805ab12a7">
-      <img src="https://www.linkedin.com/in/ruan-pablo-da-silva-diniz-805ab12a7"/>
+      <a href="https://www.linkedin.com/in/ruan-pablo-da-silva-diniz-805ab12a7" >
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
   <p>Send me an email or connect with me on LinkedIn.</p>
 </div>
 
-![snake gif](https://github.com/intpablo/intpablo/blob/main/github-contribution-grid-snake.svg)
+
 
   
 
