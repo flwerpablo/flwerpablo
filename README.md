@@ -22,8 +22,7 @@
   <p>Send me an email or connect with me on LinkedIn.</p>
 </div>
 
-![Snake Game](https://github.com/intpablo/intpablo/blob/output/github-snake.svg)
-
+![snake gif](https://github.com/intpablo/intpablo/blob/output/github-contribution-grid-snake.svg)
 
   
 
