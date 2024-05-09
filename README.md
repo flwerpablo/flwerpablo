@@ -16,10 +16,13 @@
 
 <div align="center"> 
       <div style="display: flex; align-items: center;" >
-            <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,git,mysql,docker,php,laravel" /> 
+            <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,mysql,php,laravel" /> 
             <img src="https://github.com/intpablo/intpablo/assets/150086518/3fa0a1ab-23bd-4f27-8835-d8d22bb680d6"  width="45"  /> 
             <img src="https://github.com/intpablo/intpablo/assets/150086518/2a8c2c98-950f-4e5e-8b76-19f7f3c5f8cd" width="45" />
-</div>
+</div> <br>
+  
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <img src="https://img.shields.io/badge/-PHP%20Storm-20232A?logo=phpstorm&logoColor=white&style=for-the-badge" />   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+
 <!--START_SECTION:waka-->
 
 ```txt
