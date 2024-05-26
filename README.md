@@ -23,13 +23,7 @@
   
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <img src="https://img.shields.io/badge/-PHP%20Storm-20232A?logo=phpstorm&logoColor=white&style=for-the-badge" />  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> 	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <div align="center"> 
         <h1>Contact</h1>
