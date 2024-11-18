@@ -41,7 +41,7 @@
 
    
   <td style="width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/c7b522b2-2739-4015-b4a5-bed8e09247d6" alt=" Picture">
+      <img src="https://github.com/user-attachments/assets/c7b522b2-2739-4015-b4a5-bed8e09247d6" alt="Picture" style="width: 100%;">
     </td>
   </tr>
 </table>
