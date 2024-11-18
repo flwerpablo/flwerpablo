@@ -1,63 +1,73 @@
-```c#
-{
-  "Author": {
-      "Name": "Ruan Pablo",
-      "Age": "19",
-      "Role": "Software Developer",
-      "Location": "Maranhão, Brasil"
-    },
-  "AppSettings": {
-    "ApplicationName": "README",
-    "Environment": "Development"
-  }
-}
-```
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 16px;">
+      
+      /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+      │
+      ├── /𝐁𝐈𝐎
+      │    ├── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
+      │    ├── System Analyst and Developer
+      │    └── ꜰᴜʟʟ sᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+      │
+      ├── /𝐎𝐒
+      │    ├── /ʟɪɴᴜx (ᴍᴀɪɴ)
+      │    │   └── ᴅᴇʙɪᴀɴ 12 ( ʙᴏᴏᴋᴡᴏʀᴍ )-ʟᴛꜱ
+      │    └── /ᴡɪɴᴅᴏᴡꜱ
+      │        └── ᴡɪɴᴅᴏᴡꜱ_𝟣𝟣
+      │        
+      ├── /𝐒𝐓𝐀𝐂𝐊
+      │    ├── /FRONT-END
+      │    │   └── ʜᴛᴍʟ
+      |    |   └── ᴄss
+      |    |   └── ᴛᴀɪʟᴡɪɴᴅ ᴄss
+      |    |   └── ᴊᴀᴠᴀsᴄʀɪᴘᴛ
+      │    ├── /BACK-END
+      │    |   └── ᴘʜᴘ
+      │    |   └── ʟᴀʀᴀᴠᴇʟ
+      |    |   └── ꜰɪʟᴀᴍᴇɴᴛ
+      │    ├── /DATABASES
+      │    |   └── ᴍʏsqʟ
+      │    |   └── ᴘᴏsᴛɢʀᴇsqʟ
+      │    └── /TOOLS
+      |        └── ɢɪᴛ
+      |        └── ᴅᴏᴄᴋᴇʀ
+      |        └── ꜰɪɢᴍᴀ
+      |
+      └── /𝐈𝐃𝐄𝐬
+            ├── ᴘʜᴘsᴛᴏʀᴍ (ᴍᴀɪɴ)
+            ├── ᴡᴇʙsᴛᴏʀᴍ
+            └── ᴠꜱᴄᴏᴅᴇ
+  </td>
 
+   
+  <td style="width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/c7b522b2-2739-4015-b4a5-bed8e09247d6" alt="Profile Picture" style="width: 80%; border: none; transform: scaleX(-1);">
+    </td>
+  </tr>
+</table>
 
-<div align="center"> 
-      <div style="display: flex; align-items: center;" >
-            <img src="https://skillicons.dev/icons?i=php,laravel" />
-            <img src="https://github.com/intpablo/intpablo/assets/150086518/2a8c2c98-950f-4e5e-8b76-19f7f3c5f8cd" width="45" />
-            <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" /> 
-
-            
-</div> <br>
-  
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <img src="https://img.shields.io/badge/-PHP%20Storm-20232A?logo=phpstorm&logoColor=white&style=for-the-badge" />  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> 	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-<div align="center"> 
-        <h1>Contact</h1>
-    <a href="mailto:ruanruandnz@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail"/>
-    </a>
-      <a href="https://www.linkedin.com/in/ruan-pablo-da-silva-diniz-805ab12a7" >
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-  <p>Send me an email or connect with me on LinkedIn.</p>
+<h3>𝐂𝐎𝐍𝐓𝐀𝐂𝐓</h3>
+<p >Click to send me an email or to connect with me on LinkedIn</p>
+<div style="display: flex; gap: 16px;">
+  <a href="mailto:devrpablo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" widht="40px" height="40px" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ruan-pablo-da-silva-diniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" widht="40px" height="40px" alt="LinkedIn Badge">
+  </a>
 </div>
-  
 
 
+<details>
+<summary><h3>𝑪𝑶𝑫𝑬 𝑺𝑻𝑨𝑻𝑺</h3> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</summary>
+<br>
+<div style="display: flex; align-items: flex-start;">
+  <img width="55%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rugalbless&show_icons=true&theme=graywhite" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugalbless&layout=compact" alt="stats graph" />
+</div>
+<br>
+</details>
 
 
-  
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+                                                                                                          
+                                                                                                          
