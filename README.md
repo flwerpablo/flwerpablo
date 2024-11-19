@@ -59,7 +59,7 @@
 
 
 <details>
-<summary><h3>𝑪𝑶𝑫𝑬 𝑺𝑻𝑨𝑻𝑺</h3> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</summary>
+<summary><h3>𝑪𝑶𝑫𝑬 𝑺𝑻𝑨𝑻𝑺</h3> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</summary>
 <br>
 <div style="display: flex; align-items: flex-start;">
   <img width="55%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rugalbless&show_icons=true&theme=graywhite" />
